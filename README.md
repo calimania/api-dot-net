@@ -1,3 +1,7 @@
+# Calima C# API
+
+Very serious API for business concerns that was developed in dot net and solves
+a very particular purpose.
 
 ## Installing .net
 
@@ -7,8 +11,18 @@ export DOTNET_ROOT=$HOME/dotnet
 export PATH=$PATH:$HOME/dotnet
 ```
 
+## Run
+
+```
+dotnet run
+```
+
 ## Acknowledgement
 
 [Tutorial for minimalistic](https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-8.0&tabs=visual-studio-code)
 [Tutorial for API with DB](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&tabs=visual-studio)
+
+## License
+
+[The Satire License (TSL)](./LICENSE)
 
